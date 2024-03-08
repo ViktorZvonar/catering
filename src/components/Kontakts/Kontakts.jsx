@@ -1,31 +1,7 @@
 import React from 'react';
 import styles from './Kontakts.module.css';
-import { useState } from 'react';
 
 function Kontakts() {
-  const [matList, setMatlist] = useState([]);
-  const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 5;
-
-  const totalPages = Math.ceil(matList.length / itemsPerPage);
-
-  const handleNext = () => {
-    if (currentPage < totalPages) {
-      setCurrentPage(currentPage + 1);
-    }
-  };
-
-  const handlePrev = () => {
-    if (currentPage > 1) {
-      setCurrentPage(currentPage - 1);
-    }
-  };
-
-  const currentItems = matList.slice(
-    (currentPage - 1) * itemsPerPage,
-    currentPage * itemsPerPage
-  );
-
   return (
     <main>
       <section className={styles.firstSection}>
@@ -48,37 +24,7 @@ function Kontakts() {
         <p className={styles.p}>ISBN: 978-9943-26-234-1</p>
         <p className={styles.p}>DOI: 10.28925/2023.166150conf</p>
       </section>
-      <section className={styles.secondSection}>
-        {currentItems.map((material, index) => (
-          <div key={index} className={styles.dataContainer}>
-            <div className={styles.textContainer}>
-              <h3 className={styles.h3}>{material.title}</h3>
-              <p>{material.author}</p>
-            </div>
-            <button className={styles.downloadButton}>
-              <a
-                href={material.url}
-                download={`Document_${
-                  (currentPage - 1) * itemsPerPage + index + 1
-                }.pdf`}
-              >
-                PDF
-              </a>
-            </button>
-          </div>
-        ))}
-        <div className={styles.pagination}>
-          <button onClick={handlePrev} hidden={currentPage <= 1}>
-            Previous
-          </button>
-          <span>
-            Page {currentPage} of {totalPages}
-          </span>
-          <button onClick={handleNext} hidden={currentPage >= totalPages}>
-            Next
-          </button>
-        </div>
-      </section>
+      <section className={styles.secondSection}></section>
     </main>
   );
 }
