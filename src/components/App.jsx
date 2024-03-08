@@ -1,16 +1,27 @@
+import Container from './Container/Container';
+import Header from './Header/Header';
+import Footer from './Footer/Footer';
+import { lazy, Suspense } from 'react';
+import { Routes, Route } from 'react-router-dom';
+
+const Home = lazy(() => import('./Home/Home'));
+const Offers = lazy(() => import('./Offers/Offers'));
+const Kontakts = lazy(() => import('./Kontakts/Kontakts'));
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101',
-      }}
-    >
-      My React template
-    </div>
+    <>
+      <Suspense>
+        <Header />
+        <Container>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/oferta" element={<Offers />} />
+            <Route path="/kontakt" element={<Kontakts />} />
+          </Routes>
+        </Container>
+        <Footer />
+      </Suspense>
+    </>
   );
 };

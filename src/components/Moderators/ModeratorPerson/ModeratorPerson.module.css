@@ -1,0 +1,64 @@
+.moderatorCard {
+  border: 1px solid #ccc;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  width: 100%;
+  margin: 1em;
+  padding: 1em;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease;
+  background-color: #ffffff;
+}
+
+@media (max-width: 480px) {
+  .moderatorCard {
+    flex-direction: column;
+  }
+}
+.moderatorCard:hover,
+.moderatorCard:focus {
+  transform: scale(1.1);
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
+  background-color: #fdfae7;
+  border: none;
+}
+
+.moderatorImage {
+  width: 140px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+@media (max-width: 480px) {
+  .moderatorImage {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .moderatorImage {
+    width: 100px;
+  }
+}
+
+.moderatorName {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+  text-align: start;
+}
+
+.moderatorTitle {
+  font-size: 14px;
+  margin-top: 5px;
+  text-align: start;
+}
+
+.reversed {
+  flex-direction: row-reverse;
+  justify-content: center;
+}
