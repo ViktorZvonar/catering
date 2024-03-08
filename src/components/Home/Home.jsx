@@ -17,7 +17,7 @@ function Home() {
       </section>
 
       <section className={styles.moderatorsSection}>
-        <h2 className={styles.h2}>Moderators</h2>
+        <h2 className={styles.h2}>Nasi pracownicy</h2>
         <Moderators />
       </section>
     </main>
