@@ -28,15 +28,17 @@ function Header() {
           className={`${styles.backdrop} ${
             dropdownOpen ? styles.activeBackdrop : ''
           }`}
-          onClick={() => setDropdownOpen(false)} // Close the dropdown when backdrop is clicked
+          onClick={() => setDropdownOpen(false)}
         ></div>
       )}
       <div className={styles.logos}>
-        <img
-          src={logo1}
-          alt="Logo 1"
-          className={`${styles.logo1} ${styles.logo}`}
-        />
+        <NavLink to="/">
+          <img
+            src={logo1}
+            alt="Logo 1"
+            className={`${styles.logo1} ${styles.logo}`}
+          />
+        </NavLink>
       </div>
 
       <nav className={styles.nav}>
@@ -97,11 +99,13 @@ function Header() {
         )}
       </nav>
       <div className={styles.logos}>
-        <img
-          src={logo4}
-          alt="Logo 4"
-          className={`${styles.logo4} ${styles.logo}`}
-        />
+        <a href="https://eduq.pl" target="_blank" rel="noopener noreferrer">
+          <img
+            src={logo4}
+            alt="Logo 4"
+            className={`${styles.logo4} ${styles.logo}`}
+          />
+        </a>
       </div>
     </header>
   );
