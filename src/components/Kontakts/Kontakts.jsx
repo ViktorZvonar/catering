@@ -1,30 +1,41 @@
 import React from 'react';
 import styles from './Kontakts.module.css';
+// import ContactForm from 'components/Form/Form';
 
 function Kontakts() {
   return (
-    <main>
+    <main className={styles.main}>
       <section className={styles.firstSection}>
-        <h1 className={styles.h1}>Reference</h1>
+        <h1 className={styles.h1}>Skontaktuj się z nami</h1>
         <div className={styles.refContainer}>
-          <h2 className={styles.h1}>Original:</h2>
-          <p className={styles.p}>
-            Миротворча освіта заради консолідованої та людиноцентричної Європи:
-            Доповіді всеукр. наук.-практ. конф., м.Київ, 16 червня 2023 р.:
-            Київ, Київський університет імені Бориса Грінченка, 2023. – 150 с.
-          </p>
-          <h2 className={styles.h1}>English:</h2>
-          <p className={styles.p}>
-            Peace Education for Consolidated and Human-Centered Europe:
-            Proceedings of the All-Ukrainian Scientific and Practical
-            Conference, Kyiv, June 16, 2023: Kyiv, Borys Grinchenko Kyiv
-            University, 2023. – 150 pages.
-          </p>
+          <h2 className={styles.h1}>ul. Krzywoustego 1, 84-300 Lębork</h2>
         </div>
-        <p className={styles.p}>ISBN: 978-9943-26-234-1</p>
-        <p className={styles.p}>DOI: 10.28925/2023.166150conf</p>
+        <p className={styles.p}>
+          Tel.:
+          <a href="tel:+48662219626"> +48 662 219 626</a>
+        </p>
+        <p className={styles.p}>
+          E-mail:
+          <a href="mailto:catering@eduqlebork.pl"> catering@eduqlebork.pl</a>
+        </p>
       </section>
-      <section className={styles.secondSection}></section>
+      <section className={styles.secondSection}>
+        <iframe
+          title="Location Map"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2314.9396140871513!2d17.753221677224698!3d54.53456007265762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fde80048d73679%3A0xc5ce3b71b4acae3b!2sBoles%C5%82awa%20Krzywoustego%201%2C%2084-300%20L%C4%99bork!5e0!3m2!1sen!2spl!4v1709912914953!5m2!1sen!2spl"
+          width="400"
+          height="300"
+          style={{
+            border: '1px solid blue',
+            boxShadow: '5px 5px 5px rgba(0, 0, 0, 0.1)',
+            borderRadius: '15px',
+          }}
+          allowFullScreen={true}
+          loading="lazy"
+          referrerPolicy="no-referrer-when-downgrade"
+        ></iframe>
+      </section>
+      {/* <ContactForm /> */}
     </main>
   );
 }
