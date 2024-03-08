@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ViktorZvonar.github.io/catering/",
+  "homepage": "https://viktorzvonar.github.io/catering/",
   "dependencies": {
     "axios": "^1.4.0",
     "nanoid": "^4.0.2",
