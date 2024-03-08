@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/catering/static/css/main.2c1d4692.css",
-    "main.js": "/catering/static/js/main.1ee4a543.js",
+    "main.js": "/catering/static/js/main.8f197f34.js",
     "static/css/890.ed9d31b6.chunk.css": "/catering/static/css/890.ed9d31b6.chunk.css",
     "static/js/890.30d8b27b.chunk.js": "/catering/static/js/890.30d8b27b.chunk.js",
     "static/css/877.dc4397c1.chunk.css": "/catering/static/css/877.dc4397c1.chunk.css",
     "static/js/877.96d95ef2.chunk.js": "/catering/static/js/877.96d95ef2.chunk.js",
-    "static/css/833.eb59dd05.chunk.css": "/catering/static/css/833.eb59dd05.chunk.css",
-    "static/js/833.2e2c2b98.chunk.js": "/catering/static/js/833.2e2c2b98.chunk.js",
+    "static/css/833.0a356cbd.chunk.css": "/catering/static/css/833.0a356cbd.chunk.css",
+    "static/js/833.25dc258b.chunk.js": "/catering/static/js/833.25dc258b.chunk.js",
     "static/media/eduq-logo-removebg-preview.png": "/catering/static/media/eduq-logo-removebg-preview.86e430d1afd73676c421.png",
     "static/media/catering.png": "/catering/static/media/catering.e8b09b66096c570cb31f.png",
     "static/media/We-offer.png": "/catering/static/media/We-offer.c6cdbab93c6d4ebed21c.png",
     "index.html": "/catering/index.html",
     "main.2c1d4692.css.map": "/catering/static/css/main.2c1d4692.css.map",
-    "main.1ee4a543.js.map": "/catering/static/js/main.1ee4a543.js.map",
+    "main.8f197f34.js.map": "/catering/static/js/main.8f197f34.js.map",
     "890.ed9d31b6.chunk.css.map": "/catering/static/css/890.ed9d31b6.chunk.css.map",
     "890.30d8b27b.chunk.js.map": "/catering/static/js/890.30d8b27b.chunk.js.map",
     "877.dc4397c1.chunk.css.map": "/catering/static/css/877.dc4397c1.chunk.css.map",
     "877.96d95ef2.chunk.js.map": "/catering/static/js/877.96d95ef2.chunk.js.map",
-    "833.eb59dd05.chunk.css.map": "/catering/static/css/833.eb59dd05.chunk.css.map",
-    "833.2e2c2b98.chunk.js.map": "/catering/static/js/833.2e2c2b98.chunk.js.map"
+    "833.0a356cbd.chunk.css.map": "/catering/static/css/833.0a356cbd.chunk.css.map",
+    "833.25dc258b.chunk.js.map": "/catering/static/js/833.25dc258b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c1d4692.css",
-    "static/js/main.1ee4a543.js"
+    "static/js/main.8f197f34.js"
   ]
 }
