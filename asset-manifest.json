@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "https://categringeduq.netlify.app/static/css/main.c592ef74.css",
-    "main.js": "https://categringeduq.netlify.app/static/js/main.c12e8447.js",
-    "static/css/169.7e183239.chunk.css": "https://categringeduq.netlify.app/static/css/169.7e183239.chunk.css",
-    "static/js/169.4287c6a3.chunk.js": "https://categringeduq.netlify.app/static/js/169.4287c6a3.chunk.js",
-    "static/css/877.d68c5a0c.chunk.css": "https://categringeduq.netlify.app/static/css/877.d68c5a0c.chunk.css",
-    "static/js/877.bea7324f.chunk.js": "https://categringeduq.netlify.app/static/js/877.bea7324f.chunk.js",
-    "static/css/833.484ff622.chunk.css": "https://categringeduq.netlify.app/static/css/833.484ff622.chunk.css",
-    "static/js/833.b5884b78.chunk.js": "https://categringeduq.netlify.app/static/js/833.b5884b78.chunk.js",
+    "main.css": "https://categringeduq.netlify.app/static/css/main.8d28d090.css",
+    "main.js": "https://categringeduq.netlify.app/static/js/main.e660ddf8.js",
+    "static/css/169.eb82bb55.chunk.css": "https://categringeduq.netlify.app/static/css/169.eb82bb55.chunk.css",
+    "static/js/169.a48ed93d.chunk.js": "https://categringeduq.netlify.app/static/js/169.a48ed93d.chunk.js",
+    "static/css/877.dc4397c1.chunk.css": "https://categringeduq.netlify.app/static/css/877.dc4397c1.chunk.css",
+    "static/js/877.1313b589.chunk.js": "https://categringeduq.netlify.app/static/js/877.1313b589.chunk.js",
+    "static/css/833.eb59dd05.chunk.css": "https://categringeduq.netlify.app/static/css/833.eb59dd05.chunk.css",
+    "static/js/833.2e2c2b98.chunk.js": "https://categringeduq.netlify.app/static/js/833.2e2c2b98.chunk.js",
     "static/media/eduq-logo-removebg-preview.png": "https://categringeduq.netlify.app/static/media/eduq-logo-removebg-preview.86e430d1afd73676c421.png",
     "static/media/catering.png": "https://categringeduq.netlify.app/static/media/catering.e8b09b66096c570cb31f.png",
     "static/media/We-offer.png": "https://categringeduq.netlify.app/static/media/We-offer.c6cdbab93c6d4ebed21c.png",
     "index.html": "https://categringeduq.netlify.app/index.html",
-    "main.c592ef74.css.map": "https://categringeduq.netlify.app/static/css/main.c592ef74.css.map",
-    "main.c12e8447.js.map": "https://categringeduq.netlify.app/static/js/main.c12e8447.js.map",
-    "169.7e183239.chunk.css.map": "https://categringeduq.netlify.app/static/css/169.7e183239.chunk.css.map",
-    "169.4287c6a3.chunk.js.map": "https://categringeduq.netlify.app/static/js/169.4287c6a3.chunk.js.map",
-    "877.d68c5a0c.chunk.css.map": "https://categringeduq.netlify.app/static/css/877.d68c5a0c.chunk.css.map",
-    "877.bea7324f.chunk.js.map": "https://categringeduq.netlify.app/static/js/877.bea7324f.chunk.js.map",
-    "833.484ff622.chunk.css.map": "https://categringeduq.netlify.app/static/css/833.484ff622.chunk.css.map",
-    "833.b5884b78.chunk.js.map": "https://categringeduq.netlify.app/static/js/833.b5884b78.chunk.js.map"
+    "main.8d28d090.css.map": "https://categringeduq.netlify.app/static/css/main.8d28d090.css.map",
+    "main.e660ddf8.js.map": "https://categringeduq.netlify.app/static/js/main.e660ddf8.js.map",
+    "169.eb82bb55.chunk.css.map": "https://categringeduq.netlify.app/static/css/169.eb82bb55.chunk.css.map",
+    "169.a48ed93d.chunk.js.map": "https://categringeduq.netlify.app/static/js/169.a48ed93d.chunk.js.map",
+    "877.dc4397c1.chunk.css.map": "https://categringeduq.netlify.app/static/css/877.dc4397c1.chunk.css.map",
+    "877.1313b589.chunk.js.map": "https://categringeduq.netlify.app/static/js/877.1313b589.chunk.js.map",
+    "833.eb59dd05.chunk.css.map": "https://categringeduq.netlify.app/static/css/833.eb59dd05.chunk.css.map",
+    "833.2e2c2b98.chunk.js.map": "https://categringeduq.netlify.app/static/js/833.2e2c2b98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c592ef74.css",
-    "static/js/main.c12e8447.js"
+    "static/css/main.8d28d090.css",
+    "static/js/main.e660ddf8.js"
   ]
 }
