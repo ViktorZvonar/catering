@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "https://categringeduq.netlify.app/static/css/main.8d28d090.css",
-    "main.js": "https://categringeduq.netlify.app/static/js/main.e660ddf8.js",
-    "static/css/169.eb82bb55.chunk.css": "https://categringeduq.netlify.app/static/css/169.eb82bb55.chunk.css",
-    "static/js/169.a48ed93d.chunk.js": "https://categringeduq.netlify.app/static/js/169.a48ed93d.chunk.js",
-    "static/css/877.dc4397c1.chunk.css": "https://categringeduq.netlify.app/static/css/877.dc4397c1.chunk.css",
-    "static/js/877.1313b589.chunk.js": "https://categringeduq.netlify.app/static/js/877.1313b589.chunk.js",
-    "static/css/833.eb59dd05.chunk.css": "https://categringeduq.netlify.app/static/css/833.eb59dd05.chunk.css",
-    "static/js/833.2e2c2b98.chunk.js": "https://categringeduq.netlify.app/static/js/833.2e2c2b98.chunk.js",
-    "static/media/eduq-logo-removebg-preview.png": "https://categringeduq.netlify.app/static/media/eduq-logo-removebg-preview.86e430d1afd73676c421.png",
-    "static/media/catering.png": "https://categringeduq.netlify.app/static/media/catering.e8b09b66096c570cb31f.png",
-    "static/media/We-offer.png": "https://categringeduq.netlify.app/static/media/We-offer.c6cdbab93c6d4ebed21c.png",
-    "index.html": "https://categringeduq.netlify.app/index.html",
-    "main.8d28d090.css.map": "https://categringeduq.netlify.app/static/css/main.8d28d090.css.map",
-    "main.e660ddf8.js.map": "https://categringeduq.netlify.app/static/js/main.e660ddf8.js.map",
-    "169.eb82bb55.chunk.css.map": "https://categringeduq.netlify.app/static/css/169.eb82bb55.chunk.css.map",
-    "169.a48ed93d.chunk.js.map": "https://categringeduq.netlify.app/static/js/169.a48ed93d.chunk.js.map",
-    "877.dc4397c1.chunk.css.map": "https://categringeduq.netlify.app/static/css/877.dc4397c1.chunk.css.map",
-    "877.1313b589.chunk.js.map": "https://categringeduq.netlify.app/static/js/877.1313b589.chunk.js.map",
-    "833.eb59dd05.chunk.css.map": "https://categringeduq.netlify.app/static/css/833.eb59dd05.chunk.css.map",
-    "833.2e2c2b98.chunk.js.map": "https://categringeduq.netlify.app/static/js/833.2e2c2b98.chunk.js.map"
+    "main.css": "/catering/static/css/main.2c1d4692.css",
+    "main.js": "/catering/static/js/main.0ef3fba0.js",
+    "static/css/169.eb82bb55.chunk.css": "/catering/static/css/169.eb82bb55.chunk.css",
+    "static/js/169.ee9acb02.chunk.js": "/catering/static/js/169.ee9acb02.chunk.js",
+    "static/css/877.dc4397c1.chunk.css": "/catering/static/css/877.dc4397c1.chunk.css",
+    "static/js/877.96d95ef2.chunk.js": "/catering/static/js/877.96d95ef2.chunk.js",
+    "static/css/833.eb59dd05.chunk.css": "/catering/static/css/833.eb59dd05.chunk.css",
+    "static/js/833.2e2c2b98.chunk.js": "/catering/static/js/833.2e2c2b98.chunk.js",
+    "static/media/eduq-logo-removebg-preview.png": "/catering/static/media/eduq-logo-removebg-preview.86e430d1afd73676c421.png",
+    "static/media/catering.png": "/catering/static/media/catering.e8b09b66096c570cb31f.png",
+    "static/media/We-offer.png": "/catering/static/media/We-offer.c6cdbab93c6d4ebed21c.png",
+    "index.html": "/catering/index.html",
+    "main.2c1d4692.css.map": "/catering/static/css/main.2c1d4692.css.map",
+    "main.0ef3fba0.js.map": "/catering/static/js/main.0ef3fba0.js.map",
+    "169.eb82bb55.chunk.css.map": "/catering/static/css/169.eb82bb55.chunk.css.map",
+    "169.ee9acb02.chunk.js.map": "/catering/static/js/169.ee9acb02.chunk.js.map",
+    "877.dc4397c1.chunk.css.map": "/catering/static/css/877.dc4397c1.chunk.css.map",
+    "877.96d95ef2.chunk.js.map": "/catering/static/js/877.96d95ef2.chunk.js.map",
+    "833.eb59dd05.chunk.css.map": "/catering/static/css/833.eb59dd05.chunk.css.map",
+    "833.2e2c2b98.chunk.js.map": "/catering/static/js/833.2e2c2b98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d28d090.css",
-    "static/js/main.e660ddf8.js"
+    "static/css/main.2c1d4692.css",
+    "static/js/main.0ef3fba0.js"
   ]
 }
