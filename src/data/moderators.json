@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "name": "",
-    "title": "",
-    "photo": "/images/moderators/illich.jpg"
+    "name": "Krzysztof Kotkiewicz",
+    "title": "Specjalista d/s działalności gospodarczej",
+    "photo": "/images/Pracownicy/kotkievicz.png"
   },
   {
     "id": 2,
-    "name": "",
-    "title": "",
-    "photo": "/images//moderators/zvonar.jpg"
+    "name": "Inny pracownica",
+    "title": "Specjalista d/s gastronomii",
+    "photo": "/images/Pracownicy/inny.png"
   }
 ]
