@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "name": "Obiad dwudaniowy dla szkół",
+    "name": "Obiad z dwóch dań",
     "title": "17 zł (w termosach)",
     "photo": "/images/Hits/Szkola.png"
   },
   {
     "id": 2,
-    "name": "Abonament pracowniczy 20 dni",
-    "title": "390 zł",
+    "name": "Abonament pracowniczy",
+    "title": "390 zł (20 dni)",
     "photo": "/images/Hits/Abonament.png"
   }
 ]
