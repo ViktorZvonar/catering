@@ -14,11 +14,6 @@
   background-color: #ffffff;
 }
 
-/* @media (max-width: 480px) {
-  .moderatorCard {
-    flex-direction: column;
-  }
-} */
 .moderatorCard:hover,
 .moderatorCard:focus {
   transform: scale(1.1);
@@ -33,12 +28,6 @@
   border-radius: 8px;
   border: 1px solid #ccc;
 }
-
-/* @media (max-width: 480px) {
-  .moderatorImage {
-    display: none;
-  }
-} */
 
 @media (max-width: 768px) {
   .moderatorImage {
@@ -66,4 +55,10 @@
 
 .moderatorText {
   width: 270px;
+}
+
+@media (width: 768px) {
+  .moderatorCard {
+    width: 60%;
+  }
 }
