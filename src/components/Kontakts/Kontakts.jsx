@@ -26,7 +26,6 @@ function Kontakts() {
           style={{
             border: 'none',
             boxShadow: '5px 5px 5px rgba(0, 0, 0, 0.1)',
-            borderRadius: '15px',
           }}
           allowFullScreen={true}
           loading="lazy"
