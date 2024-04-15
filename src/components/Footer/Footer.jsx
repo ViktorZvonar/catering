@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import logo1 from '../../images/catering.png';
+import logo1 from '../../images/catering-new-logo.png';
 
 import styles from './Footer.module.css';
 

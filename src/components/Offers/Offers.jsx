@@ -6,7 +6,7 @@ function Speakers() {
   return (
     <main>
       <section className={styles.section} tabIndex="0">
-        <h1 className={styles.h1}>Poznaj naszą szeroką ofertę</h1>
+        <h1 className={styles.h1}>Nasza oferta</h1>
         <p className={styles.p}>
           Wszystko to, aby sprostać Twoim oczekiwaniom i zapewnić niezapomniane
           doznania kulinarne.

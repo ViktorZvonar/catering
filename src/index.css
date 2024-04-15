@@ -10,11 +10,11 @@ body {
   margin: 0;
   font-family: 'Helvetica Neue', Arial, sans-serif;
   line-height: 1.7;
-  background-color: #ffff;
+
   background-repeat: repeat;
+  background-size: 100%;
   background-position: top;
-  background-size: 3%;
-  background-image: url('../src/images/We-offer.png');
+  background-image: url('../src/images/foto-food.jpg');
 }
 
 main {
