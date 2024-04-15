@@ -43,6 +43,7 @@
 
 .moderatorName {
   font-size: 18px;
+  text-transform: uppercase;
   font-weight: bold;
   margin-top: 10px;
   text-align: start;

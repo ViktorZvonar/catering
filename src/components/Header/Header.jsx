@@ -31,24 +31,23 @@ function Header() {
           onClick={() => setDropdownOpen(false)}
         ></div>
       )}
-      <div className={styles.logos}>
-        <NavLink to="/">
-          <img
-            src={logo1}
-            alt="Logo 1"
-            className={`${styles.logo1} ${styles.logo}`}
-          />
-        </NavLink>
-      </div>
+
+      <NavLink to="/">
+        <img
+          src={logo1}
+          alt="Logo 1"
+          className={`${styles.logo1} ${styles.logo}`}
+        />
+      </NavLink>
 
       <nav className={styles.nav}>
         {isFromWidth1280 && (
           <div className={styles.naContent}>
             <NavLink to="/" className={getClassName}>
-              O nas
-            </NavLink>
-            <NavLink to="/oferta" className={getClassName}>
               Oferta
+            </NavLink>
+            <NavLink to="/o-nas" className={getClassName}>
+              O nas
             </NavLink>
             <NavLink to="/kontakt" className={getClassName}>
               Kontakt
@@ -64,10 +63,10 @@ function Header() {
             {dropdownOpen && (
               <div className={styles.dropdownContent}>
                 <NavLink to="/" className={getClassName}>
-                  O nas
-                </NavLink>
-                <NavLink to="/oferta" className={getClassName}>
                   Oferta
+                </NavLink>
+                <NavLink to="/o-nas" className={getClassName}>
+                  O nas
                 </NavLink>
                 <NavLink to="/kontakt" className={getClassName}>
                   Kontakt
@@ -85,10 +84,10 @@ function Header() {
             {dropdownOpen && (
               <div className={styles.dropdownContent}>
                 <NavLink to="/" className={getClassName}>
-                  O nas
+                  oferta
                 </NavLink>
-                <NavLink to="/oferta" className={getClassName}>
-                  Oferta
+                <NavLink to="/o-nas" className={getClassName}>
+                  O nas
                 </NavLink>
                 <NavLink to="/kontakt" className={getClassName}>
                   Kontakt
@@ -98,15 +97,19 @@ function Header() {
           </li>
         )}
       </nav>
-      <div className={styles.logos}>
-        <a href="https://eduq.pl" target="_blank" rel="noopener noreferrer">
-          <img
-            src={logo4}
-            alt="Logo 4"
-            className={`${styles.logo4} ${styles.logo}`}
-          />
-        </a>
-      </div>
+
+      <a
+        className={styles.logoLinkInvisible}
+        href="https://eduq.pl"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img
+          src={logo4}
+          alt="Logo 4"
+          className={`${styles.logo4} ${styles.logo}`}
+        />
+      </a>
     </header>
   );
 }

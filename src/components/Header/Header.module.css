@@ -60,6 +60,7 @@
 .burgerMenuIcon {
   cursor: pointer;
   position: relative;
+  margin-left: auto;
 }
 
 .menuDropdown {
@@ -110,11 +111,18 @@
   width: 100%;
 }
 
-@media (max-width: 768px) {
-  .logo1,
-  .logo4 {
+@media (max-width: 767px) {
+  .logo1 {
     width: 7rem;
     height: 50%;
+  }
+  .logoLinkInvisible {
+    display: none;
+  }
+
+  .header {
+    justify-content: space-between;
+    padding: 3px 20px;
   }
 }
 
