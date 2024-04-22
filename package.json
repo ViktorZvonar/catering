@@ -2,7 +2,6 @@
   "name": "catering",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cateringeduq.pl",
   "dependencies": {
     "axios": "^1.4.0",
     "nanoid": "^4.0.2",
