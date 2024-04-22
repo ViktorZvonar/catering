@@ -11,7 +11,7 @@ const Kontakts = lazy(() => import('./Kontakts/Kontakts'));
 
 export const App = () => {
   return (
-    <Router basename="/catering">
+    <Router basename="/">
       <Suspense>
         <Header />
         <Container>
