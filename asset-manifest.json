@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2fe377b5.css",
-    "main.js": "/static/js/main.9d336554.js",
+    "main.js": "/static/js/main.035c4c1b.js",
     "static/css/890.470ef380.chunk.css": "/static/css/890.470ef380.chunk.css",
     "static/js/890.7f122362.chunk.js": "/static/js/890.7f122362.chunk.js",
     "static/css/877.2542cce4.chunk.css": "/static/css/877.2542cce4.chunk.css",
@@ -13,7 +13,7 @@
     "static/media/eduq-logo-removebg-preview.png": "/static/media/eduq-logo-removebg-preview.c78156c66a0e384b06e9.png",
     "index.html": "/index.html",
     "main.2fe377b5.css.map": "/static/css/main.2fe377b5.css.map",
-    "main.9d336554.js.map": "/static/js/main.9d336554.js.map",
+    "main.035c4c1b.js.map": "/static/js/main.035c4c1b.js.map",
     "890.470ef380.chunk.css.map": "/static/css/890.470ef380.chunk.css.map",
     "890.7f122362.chunk.js.map": "/static/js/890.7f122362.chunk.js.map",
     "877.2542cce4.chunk.css.map": "/static/css/877.2542cce4.chunk.css.map",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.2fe377b5.css",
-    "static/js/main.9d336554.js"
+    "static/js/main.035c4c1b.js"
   ]
 }
