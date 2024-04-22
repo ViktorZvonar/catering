@@ -11,7 +11,7 @@ const Kontakts = lazy(() => import('./Kontakts/Kontakts'));
 
 export const App = () => {
   return (
-    <Suspense fallback={<p>Wait! I'm loading...</p>}>
+    <Suspense>
       <Header />
       <Container>
         <Routes>
