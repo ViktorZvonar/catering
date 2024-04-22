@@ -12,7 +12,7 @@ const Kontakts = lazy(() => import('./Kontakts/Kontakts'));
 export const App = () => {
   return (
     <Router basename="/">
-      <Suspense>
+      <Suspense fallback={<p>Wait! I'm loading...</p>}>
         <Header />
         <Container>
           <Routes>
