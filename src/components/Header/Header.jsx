@@ -84,7 +84,7 @@ function Header() {
             {dropdownOpen && (
               <div className={styles.dropdownContent}>
                 <NavLink to="/" className={getClassName}>
-                  oferta
+                  Oferta
                 </NavLink>
                 <NavLink to="/o-nas" className={getClassName}>
                   O nas
