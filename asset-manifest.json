@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7b4c3c0.css",
+    "main.css": "/static/css/main.a9729131.css",
     "main.js": "/static/js/main.46c01623.js",
     "static/css/890.470ef380.chunk.css": "/static/css/890.470ef380.chunk.css",
     "static/js/890.7f122362.chunk.js": "/static/js/890.7f122362.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/833.cd94a8db.chunk.js": "/static/js/833.cd94a8db.chunk.js",
     "static/media/catering-new-logo.png": "/static/media/catering-new-logo.baa78cd2516a3061196a.png",
     "static/media/eduq-logo-removebg-preview.png": "/static/media/eduq-logo-removebg-preview.c78156c66a0e384b06e9.png",
-    "static/media/bg-6.jpg": "/static/media/bg-6.60e805f739e85d383167.jpg",
+    "static/media/bg-6.jpg": "/static/media/bg-6.cae3f029b27784c935c7.jpg",
     "index.html": "/index.html",
-    "main.e7b4c3c0.css.map": "/static/css/main.e7b4c3c0.css.map",
+    "main.a9729131.css.map": "/static/css/main.a9729131.css.map",
     "main.46c01623.js.map": "/static/js/main.46c01623.js.map",
     "890.470ef380.chunk.css.map": "/static/css/890.470ef380.chunk.css.map",
     "890.7f122362.chunk.js.map": "/static/js/890.7f122362.chunk.js.map",
@@ -22,7 +22,7 @@
     "833.cd94a8db.chunk.js.map": "/static/js/833.cd94a8db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7b4c3c0.css",
+    "static/css/main.a9729131.css",
     "static/js/main.46c01623.js"
   ]
 }
