@@ -12,7 +12,7 @@
 
 .speakerCard:hover,
 .speakerCard:focus {
-  transform: scale(1.1);
+  transform: scale(1.05);
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
   background-color: #ff8f00;
   border: none;
