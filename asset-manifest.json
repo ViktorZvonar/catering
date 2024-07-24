@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.a9729131.css",
-    "main.js": "/static/js/main.06758715.js",
+    "main.js": "/static/js/main.e0e36a20.js",
     "static/css/890.470ef380.chunk.css": "/static/css/890.470ef380.chunk.css",
     "static/js/890.7f122362.chunk.js": "/static/js/890.7f122362.chunk.js",
-    "static/css/877.4ed9e727.chunk.css": "/static/css/877.4ed9e727.chunk.css",
-    "static/js/877.4944f7b3.chunk.js": "/static/js/877.4944f7b3.chunk.js",
+    "static/css/877.3a382e95.chunk.css": "/static/css/877.3a382e95.chunk.css",
+    "static/js/877.4fcd86a6.chunk.js": "/static/js/877.4fcd86a6.chunk.js",
     "static/css/833.1b3613e7.chunk.css": "/static/css/833.1b3613e7.chunk.css",
     "static/js/833.cd94a8db.chunk.js": "/static/js/833.cd94a8db.chunk.js",
     "static/media/catering-new-logo.png": "/static/media/catering-new-logo.baa78cd2516a3061196a.png",
@@ -13,16 +13,16 @@
     "static/media/bg-6.jpg": "/static/media/bg-6.cae3f029b27784c935c7.jpg",
     "index.html": "/index.html",
     "main.a9729131.css.map": "/static/css/main.a9729131.css.map",
-    "main.06758715.js.map": "/static/js/main.06758715.js.map",
+    "main.e0e36a20.js.map": "/static/js/main.e0e36a20.js.map",
     "890.470ef380.chunk.css.map": "/static/css/890.470ef380.chunk.css.map",
     "890.7f122362.chunk.js.map": "/static/js/890.7f122362.chunk.js.map",
-    "877.4ed9e727.chunk.css.map": "/static/css/877.4ed9e727.chunk.css.map",
-    "877.4944f7b3.chunk.js.map": "/static/js/877.4944f7b3.chunk.js.map",
+    "877.3a382e95.chunk.css.map": "/static/css/877.3a382e95.chunk.css.map",
+    "877.4fcd86a6.chunk.js.map": "/static/js/877.4fcd86a6.chunk.js.map",
     "833.1b3613e7.chunk.css.map": "/static/css/833.1b3613e7.chunk.css.map",
     "833.cd94a8db.chunk.js.map": "/static/js/833.cd94a8db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9729131.css",
-    "static/js/main.06758715.js"
+    "static/js/main.e0e36a20.js"
   ]
 }
