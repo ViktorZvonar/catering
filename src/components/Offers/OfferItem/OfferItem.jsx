@@ -1,10 +1,18 @@
 import React from 'react';
+
+// import { Link } from 'react-router-dom';
 import speakersData from '../../../data/speakers.json';
 import styles from './OfferItem.module.css';
 
 function OfferItem() {
   return speakersData.map(speaker => (
-    <div key={speaker.id} className={styles.speakerCard}>
+    <a
+      key={speaker.id}
+      href={process.env.PUBLIC_URL + speaker.url}
+      className={styles.speakerCard}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
       <img
         className={styles.speakerImage}
         src={process.env.PUBLIC_URL + speaker.photo}
@@ -12,7 +20,7 @@ function OfferItem() {
       />
       <div className={styles.speakerName}>{speaker.name}</div>
       <div className={styles.speakerTitle}>{speaker.title}</div>
-    </div>
+    </a>
   ));
 }
 
