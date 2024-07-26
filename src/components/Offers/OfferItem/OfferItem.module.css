@@ -10,8 +10,7 @@
   background-color: #ffffff;
 }
 
-.speakerCard:hover,
-.speakerCard:focus {
+.speakerCard:hover {
   transform: scale(1.05);
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
   background-color: #ff8f00;
@@ -34,8 +33,7 @@
   text-align: center;
 }
 
-.speakerCard:hover .speakerName,
-.speakerCard:focus .speakerName {
+.speakerCard:hover .speakerName {
   background-color: black;
   padding: 0 20px 0 20px;
   border-radius: 15px;

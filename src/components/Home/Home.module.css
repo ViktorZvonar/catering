@@ -127,3 +127,9 @@
 .secondSection {
   margin-bottom: 70px;
 }
+
+.mainPhoto {
+  width: 100%;
+
+  border-radius: 15px;
+}
