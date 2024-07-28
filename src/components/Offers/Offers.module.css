@@ -7,7 +7,7 @@
   border: 1px solid #ccc;
   background-color: #ffffff;
   padding: 5px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
   border-radius: 15px;
   transition: all 0.3s ease;
@@ -64,6 +64,11 @@
   .additionalInfo {
     display: block;
   }
+
+  .section {
+    margin-bottom: 70px;
+  }
+
   .speakersContainer {
     grid-template-columns: repeat(3, 1fr);
   }
