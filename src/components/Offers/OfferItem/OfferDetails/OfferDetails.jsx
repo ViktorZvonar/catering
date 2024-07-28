@@ -13,51 +13,22 @@ function OfferDetails() {
 
   return (
     <main className={styles.offersContainer}>
-      {data.urlDetails1 && (
+      {data.subItems.map(subItem => (
         <a
+          key={subItem.subItemId}
           className={styles.offerLink}
-          href={process.env.PUBLIC_URL + data.urlDetails1}
+          href={process.env.PUBLIC_URL + subItem.urlDetails}
         >
           <div className={styles.offerCard}>
-            <h1 className={styles.offerName}>{data.urlDetails1Title}</h1>
+            <h1 className={styles.offerName}>{subItem.urlDetailsTitle}</h1>
             <img
               className={styles.offerImage}
-              src={process.env.PUBLIC_URL + data.urlDetails1}
-              alt={data.offerName}
+              src={process.env.PUBLIC_URL + subItem.urlDetails}
+              alt={subItem.urlDetailsTitle}
             />
           </div>
         </a>
-      )}
-      {data.urlDetails2 && (
-        <a
-          className={styles.offerLink}
-          href={process.env.PUBLIC_URL + data.urlDetails2}
-        >
-          <div className={styles.offerCard}>
-            <h1 className={styles.offerName}>{data.urlDetails2Title}</h1>
-            <img
-              className={styles.offerImage}
-              src={process.env.PUBLIC_URL + data.urlDetails2}
-              alt={data.offerName}
-            />
-          </div>
-        </a>
-      )}
-      {data.urlDetails3 && (
-        <a
-          className={styles.offerLink}
-          href={process.env.PUBLIC_URL + data.urlDetails3}
-        >
-          <div className={styles.offerCard}>
-            <h1 className={styles.offerName}>{data.urlDetails3Title}</h1>
-            <img
-              className={styles.offerImage}
-              src={process.env.PUBLIC_URL + data.urlDetails3}
-              alt={data.offerName}
-            />
-          </div>
-        </a>
-      )}
+      ))}
     </main>
   );
 }

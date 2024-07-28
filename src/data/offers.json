@@ -5,8 +5,13 @@
         "title": "Zapewnia zdrowe, zbilansowane posiłki, przygotowane z myślą o żywieniowych dzieci, wspierając ich rozwój każdego dnia",
         "photo": "/images/OfferItems/SZ.jpg",
         "url": "/details/1",
-        "urlDetails1": "/images/OfferItems/offersDetails/witamy.jpg",
-        "urlDetails1Title": "Witamy"
+        "subItems": [
+            {
+                "subItemId": 1,
+                "urlDetails": "/images/OfferItems/offersDetails/witamy.jpg",
+                "urlDetailsTitle": "Witamy"
+            }
+        ]
     },
     {
         "id": 2,
@@ -14,8 +19,13 @@
         "title": "Idealny do codziennego wyżywienia pracowników oraz organizacji spotkań biznesowych",
         "photo": "/images/OfferItems/FI.jpg",
         "url": "/details/2",
-        "urlDetails1": "/images/OfferItems/offersDetails/witamy.jpg",
-        "urlDetails1Title": "Witamy"
+        "subItems": [
+            {
+                "subItemId": 1,
+                "urlDetails": "/images/OfferItems/offersDetails/witamy.jpg",
+                "urlDetailsTitle": "Witamy"
+            }
+        ]
     },
     {
         "id": 3,
@@ -23,10 +33,18 @@
         "title": "Oferujemy personalizowane usługi cateringowe, dostosowane do indywidualnych potrzeb i preferencji każdego klienta",
         "photo": "/images/OfferItems/CI.jpg",
         "url": "/details/3",
-        "urlDetails1": "/images/OfferItems/offersDetails/menu-mięsa.jpg",
-        "urlDetails1Title": "Catering mięsny",
-        "urlDetails2": "/images/OfferItems/offersDetails/menu-bez-mięsa.jpg",
-        "urlDetails2Title": "Catering bezmięsny"
+        "subItems": [
+            {
+                "subItemId": 1,
+                "urlDetails": "/images/OfferItems/offersDetails/menu-mięsa.jpg",
+                "urlDetailsTitle": "Catering mięsny"
+            },
+            {
+                "subItemId": 2,
+                "urlDetails": "/images/OfferItems/offersDetails/menu-bez-mięsa.jpg",
+                "urlDetailsTitle": "Catering bezmięsny"
+            }
+        ]
     },
     {
         "id": 4,
@@ -34,8 +52,13 @@
         "title": "Idealne dla osób ceniących sobie wygodę, jakość oraz ciągłość w dostępie do zdrowego jedzenia",
         "photo": "/images/OfferItems/AB.jpg",
         "url": "/details/4",
-        "urlDetails1": "/images/OfferItems/offersDetails/witamy.jpg",
-        "urlDetails1Title": "Witamy"
+        "subItems": [
+            {
+                "subItemId": 1,
+                "urlDetails": "/images/OfferItems/offersDetails/witamy.jpg",
+                "urlDetailsTitle": "Witamy"
+            }
+        ]
     },
     {
         "id": 5,
@@ -43,11 +66,22 @@
         "title": "Idealne rozwiązanie na specjalne wydarzenia",
         "photo": "/images/OfferItems/ZE.jpg",
         "url": "/details/5",
-        "urlDetails1": "/images/OfferItems/offersDetails/obiad-dla-20-1.jpg",
-        "urlDetails1Title": "Catering dla 20 osób: Opcja 1",
-        "urlDetails2": "/images/OfferItems/offersDetails/obiad-dla-20-2.jpg",
-        "urlDetails2Title": "Catering dla 20 osób: Opcja 2",
-        "urlDetails3": "/images/OfferItems/offersDetails/catering-dla-40.jpg",
-        "urlDetails3Title": "Catering dla 40 osób"
+        "subItems": [
+            {
+                "subItemId": 1,
+                "urlDetails": "/images/OfferItems/offersDetails/obiad-dla-20-1.jpg",
+                "urlDetailsTitle": "Catering dla 20 osób: Opcja 1"
+            },
+            {
+                "subItemId": 2,
+                "urlDetails": "/images/OfferItems/offersDetails/obiad-dla-20-2.jpg",
+                "urlDetailsTitle": "Catering dla 20 osób: Opcja 2"
+            },
+            {
+                "subItemId": 3,
+                "urlDetails": "/images/OfferItems/offersDetails/catering-dla-40.jpg",
+                "urlDetailsTitle": "Catering dla 40 osób"
+            }
+        ]
     }
 ]
