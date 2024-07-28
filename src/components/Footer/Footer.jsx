@@ -12,9 +12,17 @@ function Footer() {
           <img src={logo1} alt="Logo 1" className={styles.logo1} />
         </NavLink>
       </div>
-      <p className={styles.disclaimer}>ul. Krzywoustego 1, 84-300, Lębork</p>
-      <p className={styles.disclaimer}>Tel.: 662 219 626</p>
-      <p className={styles.disclaimer}>catering@eduqlebork.pl</p>
+      <p className={styles.disclaimer}>
+        <a target="blank" href="https://maps.app.goo.gl/yegTGRHq9R9fDZDh7">
+          ul. Krzywoustego 1, 84-300, Lębork
+        </a>
+      </p>
+      <p className={styles.disclaimer}>
+        <a href="tel:+48662219626">Tel.: +48 662 219 626</a>
+      </p>
+      <p className={styles.disclaimer}>
+        <a href="mailto:catering@eduqlebork.pl">catering@eduqlebork.pl</a>
+      </p>
     </footer>
   );
 }
