@@ -8,26 +8,26 @@ function Kontakts() {
       <section className={styles.firstSection}>
         <h1 className={styles.h1}>Skontaktuj się z nami</h1>
         <p className={styles.p}>ul. Krzywoustego 1, 84-300 Lębork</p>
-        <p className={styles.p}>
+        <p className={styles.clickableContact}>
           <a href="tel:+48662219626"> +48 662 219 626</a>
         </p>
-        <p className={styles.p}>
+        <p className={`${styles.clickableContact} ${styles.last}`}>
           <a href="mailto:catering@eduqlebork.pl"> catering@eduqlebork.pl</a>
         </p>
       </section>
       <section className={styles.secondSection}>
         <iframe
           title="Location Map"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2314.9396140871513!2d17.753221677224698!3d54.53456007265762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fde80048d73679%3A0xc5ce3b71b4acae3b!2sBoles%C5%82awa%20Krzywoustego%201%2C%2084-300%20L%C4%99bork!5e0!3m2!1sen!2spl!4v1709912914953!5m2!1sen!2spl"
-          width="320"
-          height="300"
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4629.8851348463!2d17.755885!3d54.534508!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fde80048d73679%3A0xc5ce3b71b4acae3b!2sBoles%C5%82awa%20Krzywoustego%201%2C%2084-300%20L%C4%99bork!5e0!3m2!1sen!2spl!4v1722182901263!5m2!1sen!2spl"
+          width="600"
+          height="450"
           style={{
             border: 'none',
             boxShadow: '5px 5px 5px rgba(0, 0, 0, 0.1)',
           }}
-          allowFullScreen={true}
+          allowfullscreen=""
           loading="lazy"
-          referrerPolicy="no-referrer-when-downgrade"
+          referrerpolicy="no-referrer-when-downgrade"
         ></iframe>
       </section>
       {/* <ContactForm /> */}

@@ -32,6 +32,12 @@
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+.active {
+  color: #f8f9fa;
+  background-color: black;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
 .productsContainer,
 .helpContainer {
   position: relative;

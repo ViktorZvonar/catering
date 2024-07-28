@@ -9,7 +9,7 @@ function Home() {
   return (
     <main>
       <section className={styles.firstSection}>
-        <h1 className={styles.h1}>Witamy!</h1>
+        {/* <h1 className={styles.h1}>Witamy!</h1> */}
         <img className={styles.mainPhoto} src={mainPhoto} alt="o nas" />
       </section>
 

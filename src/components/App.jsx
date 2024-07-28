@@ -2,6 +2,8 @@ import Container from './Container/Container';
 import Header from './Header/Header';
 import Footer from './Footer/Footer';
 
+import Loader from './Loader/Loader';
+
 import { lazy, Suspense } from 'react';
 import { Routes, Route } from 'react-router-dom';
 
@@ -14,7 +16,25 @@ const OfferDetails = lazy(() =>
 
 export const App = () => {
   return (
-    <Suspense fallback={<div>Loading...</div>}>
+    <Suspense
+      fallback={
+        <div
+          style={{
+            position: 'fixed',
+            top: 0,
+            bottom: 0,
+            left: 0,
+            right: 0,
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+            height: '100%',
+          }}
+        >
+          <Loader />
+        </div>
+      }
+    >
       <Header />
       <Container>
         <Routes>

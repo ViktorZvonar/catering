@@ -26,7 +26,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #fef9f9;
+  border: 1px solid #ccc;
+  background-color: #ffffff;
   padding: 5px;
   /* margin-bottom: 20px; */
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
