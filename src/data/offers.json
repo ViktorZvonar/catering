@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Catering dla szkół i  przedszkoli",
+        "name": "Dla szkół i  przedszkoli",
         "title": "Zapewnia zdrowe, zbilansowane posiłki, przygotowane z myślą o żywieniowych dzieci, wspierając ich rozwój każdego dnia",
         "photo": "/images/OfferItems/SZ.jpg",
         "url": "/details/1",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "name": "Catering dla firm",
+        "name": "Dla firm",
         "title": "Idealny do codziennego wyżywienia pracowników oraz organizacji spotkań biznesowych",
         "photo": "/images/OfferItems/FI.jpg",
         "url": "/details/2",
