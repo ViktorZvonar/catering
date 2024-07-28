@@ -11,7 +11,7 @@
 }
 
 .speakerCard:hover {
-  transform: scale(1.05);
+  transform: scale(1.02);
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
   background-color: #ff8f00;
   border: none;

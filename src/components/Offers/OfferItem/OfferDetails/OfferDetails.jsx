@@ -2,6 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import offerData from '../../../../data/offers.json';
 import styles from './OfferDetails.module.css';
+
 function OfferDetails() {
   const { id } = useParams();
   const data = offerData.find(s => s.id === parseInt(id, 10));
