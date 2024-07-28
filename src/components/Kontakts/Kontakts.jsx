@@ -9,11 +9,9 @@ function Kontakts() {
         <h1 className={styles.h1}>Skontaktuj się z nami</h1>
         <p className={styles.p}>ul. Krzywoustego 1, 84-300 Lębork</p>
         <p className={styles.p}>
-          Tel.:
           <a href="tel:+48662219626"> +48 662 219 626</a>
         </p>
         <p className={styles.p}>
-          E-mail:
           <a href="mailto:catering@eduqlebork.pl"> catering@eduqlebork.pl</a>
         </p>
       </section>

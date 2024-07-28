@@ -2,7 +2,7 @@ import React from 'react';
 import styles from './Offers.module.css';
 import OfferItem from './OfferItem/OfferItem';
 
-function Speakers() {
+function Offers() {
   return (
     <main>
       <section className={styles.section}>
@@ -20,4 +20,4 @@ function Speakers() {
   );
 }
 
-export default Speakers;
+export default Offers;

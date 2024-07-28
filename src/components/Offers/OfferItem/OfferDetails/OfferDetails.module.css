@@ -1,0 +1,67 @@
+.offersContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.offerCard {
+  max-width: 350px;
+  height: 100%;
+
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: all 0.3s ease;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.offerCard:hover {
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
+  background-color: #ff8f00;
+  border: none;
+  color: #f8f9fa;
+}
+
+.offerImage {
+  height: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+.offerName {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.offerCard:hover .offerName {
+  background-color: black;
+  padding: 0 20px 0 20px;
+  border-radius: 15px;
+}
+
+/* @media (max-width: 768px) {
+  .offerImage {
+    width: 250px;
+    height: 250px;
+    object-position: 50% 50%;
+  }
+  .offerName {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 769px) {
+  .offerImage {
+    width: 550px;
+    height: 550px;
+  }
+} */
