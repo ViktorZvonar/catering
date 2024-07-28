@@ -12,7 +12,7 @@ function Footer() {
           <img src={logo1} alt="Logo 1" className={styles.logo1} />
         </NavLink>
       </div>
-      <p className={styles.disclaimer}>Krzywoustego 1, 84-300 Lębork</p>
+      <p className={styles.disclaimer}>ul. Krzywoustego 1, 84-300, Lębork</p>
       <p className={styles.disclaimer}>Tel.: 662 219 626</p>
       <p className={styles.disclaimer}>catering@eduqlebork.pl</p>
     </footer>
