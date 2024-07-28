@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcatering=self.webpackChunkcatering||[]).push([[493],{736:(s,a,e)=>{e.r(a),e.d(a,{default:()=>r});e(791);const c="Home_firstSection__qDrPZ",n="Home_mainPhoto__96+Zh",t=e.p+"static/media/o-nas.88cb04fec4f0a1a65891.jpg";var i=e(184);const r=function(){return(0,i.jsx)("main",{children:(0,i.jsx)("section",{className:c,children:(0,i.jsx)("img",{className:n,src:t,alt:"o nas"})})})}}}]);
+//# sourceMappingURL=493.78dfd2aa.chunk.js.map
