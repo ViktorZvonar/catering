@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.69c14ed7.css",
-    "main.js": "/static/js/main.55b7ce35.js",
+    "main.js": "/static/js/main.237bfe59.js",
     "static/css/493.d360a381.chunk.css": "/static/css/493.d360a381.chunk.css",
     "static/js/493.6877458a.chunk.js": "/static/js/493.6877458a.chunk.js",
     "static/css/16.8aec5665.chunk.css": "/static/css/16.8aec5665.chunk.css",
@@ -9,14 +9,14 @@
     "static/css/833.fa7950b0.chunk.css": "/static/css/833.fa7950b0.chunk.css",
     "static/js/833.f2a8fa43.chunk.js": "/static/js/833.f2a8fa43.chunk.js",
     "static/css/790.dfd9d988.chunk.css": "/static/css/790.dfd9d988.chunk.css",
-    "static/js/790.0104288b.chunk.js": "/static/js/790.0104288b.chunk.js",
+    "static/js/790.68c2d045.chunk.js": "/static/js/790.68c2d045.chunk.js",
     "static/media/o-nas.jpg": "/static/media/o-nas.88cb04fec4f0a1a65891.jpg",
     "static/media/catering-new-logo.png": "/static/media/catering-new-logo.baa78cd2516a3061196a.png",
     "static/media/eduq-logo-removebg-preview.png": "/static/media/eduq-logo-removebg-preview.c78156c66a0e384b06e9.png",
     "static/media/bg-6.jpg": "/static/media/bg-6.cae3f029b27784c935c7.jpg",
     "index.html": "/index.html",
     "main.69c14ed7.css.map": "/static/css/main.69c14ed7.css.map",
-    "main.55b7ce35.js.map": "/static/js/main.55b7ce35.js.map",
+    "main.237bfe59.js.map": "/static/js/main.237bfe59.js.map",
     "493.d360a381.chunk.css.map": "/static/css/493.d360a381.chunk.css.map",
     "493.6877458a.chunk.js.map": "/static/js/493.6877458a.chunk.js.map",
     "16.8aec5665.chunk.css.map": "/static/css/16.8aec5665.chunk.css.map",
@@ -24,10 +24,10 @@
     "833.fa7950b0.chunk.css.map": "/static/css/833.fa7950b0.chunk.css.map",
     "833.f2a8fa43.chunk.js.map": "/static/js/833.f2a8fa43.chunk.js.map",
     "790.dfd9d988.chunk.css.map": "/static/css/790.dfd9d988.chunk.css.map",
-    "790.0104288b.chunk.js.map": "/static/js/790.0104288b.chunk.js.map"
+    "790.68c2d045.chunk.js.map": "/static/js/790.68c2d045.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69c14ed7.css",
-    "static/js/main.55b7ce35.js"
+    "static/js/main.237bfe59.js"
   ]
 }
