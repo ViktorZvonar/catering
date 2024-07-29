@@ -17,7 +17,8 @@
 .section:focus {
   box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
   background-color: #fef9f9;
-  border: none;
+
+  border: 1px solid #fef9f9;
 }
 
 .h1 {
