@@ -27,8 +27,13 @@
         "subItems": [
             {
                 "subItemId": 1,
-                "urlDetails": "/images/OfferItems/offersDetails/witamy.jpg",
-                "urlDetailsTitle": "Witamy"
+                "urlDetails": "/images/OfferItems/offersDetails/dla-pracowmików.jpg",
+                "urlDetailsTitle": "Posiłki regeneracyjne"
+            },
+            {
+                "subItemId": 1,
+                "urlDetails": "/images/OfferItems/offersDetails/żywienie-zbiorowe.jpg",
+                "urlDetailsTitle": "Żywienie zbiorowe"
             }
         ]
     },
