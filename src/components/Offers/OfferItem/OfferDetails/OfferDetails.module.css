@@ -46,21 +46,3 @@
   padding: 0 20px 0 20px;
   border-radius: 15px;
 }
-
-/* @media (max-width: 768px) {
-  .offerImage {
-    width: 250px;
-    height: 250px;
-    object-position: 50% 50%;
-  }
-  .offerName {
-    font-size: 18px;
-  }
-}
-
-@media (min-width: 769px) {
-  .offerImage {
-    width: 550px;
-    height: 550px;
-  }
-} */

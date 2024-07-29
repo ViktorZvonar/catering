@@ -22,8 +22,8 @@ function OfferItem() {
             src={process.env.PUBLIC_URL + offer.photo}
             alt={offer.name}
           />
-          <div className={styles.speakerName}>{offer.name}</div>
-          <div className={styles.speakerTitle}>{offer.title}</div>
+          <p className={styles.speakerName}>{offer.name}</p>
+          <p className={styles.speakerTitle}>{offer.title}</p>
         </a>
       );
     } else {

@@ -21,7 +21,7 @@
 }
 
 .speakerImage {
-  height: 100%;
+  max-height: 100%;
   object-fit: cover;
   border-radius: 15px;
 }
@@ -44,25 +44,4 @@
   font-size: 12px;
   margin-top: 5px;
   text-align: center;
-}
-
-@media (max-width: 768px) {
-  .speakerImage {
-    width: 250px;
-    height: 250px;
-    object-position: 50% 50%;
-  }
-  .speakerName {
-    font-size: 18px;
-  }
-  .speakerTitle {
-    font-size: 14px;
-  }
-}
-
-@media (min-width: 769px) {
-  .speakerImage {
-    width: 350px;
-    height: 350px;
-  }
 }
