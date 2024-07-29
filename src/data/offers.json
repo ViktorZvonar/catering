@@ -8,8 +8,13 @@
         "subItems": [
             {
                 "subItemId": 1,
-                "urlDetails": "/images/OfferItems/offersDetails/witamy.jpg",
-                "urlDetailsTitle": "Witamy"
+                "urlDetails": "/images/OfferItems/offersDetails/dla-szkół-i-przedszkoli.jpg",
+                "urlDetailsTitle": "Posiłki"
+            },
+            {
+                "subItemId": 1,
+                "urlDetails": "/images/OfferItems/offersDetails/żywienie-zbiorowe-dla-szkoli.jpg",
+                "urlDetailsTitle": "Żywienie zbiorowe"
             }
         ]
     },
