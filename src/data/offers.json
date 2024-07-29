@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Dla szkół i  przedszkoli",
-        "title": "Zapewnia zdrowe, zbilansowane posiłki, przygotowane z myślą o żywieniowych dzieci, wspierając ich rozwój każdego dnia",
+        "title": "Zapewnia zdrowe, zbilansowane posiłki, przygotowane z myślą o żywieniowych dzieci",
         "photo": "/images/OfferItems/SZ.jpg",
         "url": "/details/1",
         "subItems": [
@@ -40,7 +40,7 @@
     {
         "id": 3,
         "name": "Catering indywidualny",
-        "title": "Oferujemy personalizowane usługi cateringowe, dostosowane do indywidualnych potrzeb i preferencji każdego klienta",
+        "title": "Personalizowane usługi cateringowe, dostosowane do indywidualnych preferencji klienta",
         "photo": "/images/OfferItems/CI.jpg",
         "url": "/details/3",
         "subItems": [
