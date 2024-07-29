@@ -12,23 +12,25 @@ function OfferDetails() {
   }
 
   return (
-    <main className={styles.offersContainer}>
-      {data.subItems.map(subItem => (
-        <a
-          key={subItem.subItemId}
-          className={styles.offerLink}
-          href={process.env.PUBLIC_URL + subItem.urlDetails}
-        >
-          <div className={styles.offerCard}>
-            <h1 className={styles.offerName}>{subItem.urlDetailsTitle}</h1>
-            <img
-              className={styles.offerImage}
-              src={process.env.PUBLIC_URL + subItem.urlDetails}
-              alt={subItem.urlDetailsTitle}
-            />
-          </div>
-        </a>
-      ))}
+    <main>
+      <section className={styles.offersContainer}>
+        {data.subItems.map(subItem => (
+          <a
+            key={subItem.subItemId}
+            className={styles.offerLink}
+            href={process.env.PUBLIC_URL + subItem.urlDetails}
+          >
+            <div className={styles.offerCard}>
+              <h1 className={styles.offerName}>{subItem.urlDetailsTitle}</h1>
+              <img
+                className={styles.offerImage}
+                src={process.env.PUBLIC_URL + subItem.urlDetails}
+                alt={subItem.urlDetailsTitle}
+              />
+            </div>
+          </a>
+        ))}
+      </section>
     </main>
   );
 }
