@@ -52,13 +52,8 @@
   flex-wrap: wrap;
   gap: 30px;
   justify-content: center;
+  align-items: stretch;
 }
-
-/* @media (min-width: 768px) {
-  .speakersContainer {
-    grid-template-columns: repeat(2, 1fr);
-  }
-} */
 
 @media (min-width: 1280px) {
   .additionalInfo {
@@ -68,10 +63,6 @@
   .section {
     margin-bottom: 70px;
   }
-
-  /* .speakersContainer {
-    grid-template-columns: repeat(3, 1fr);
-  } */
 }
 
 .additionalInfo {
