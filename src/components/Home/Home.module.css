@@ -1,11 +1,10 @@
 .h1 {
   font-family: 'Pacifico';
-  font-size: 30px;
+  font-size: 20px;
   text-transform: capitalize;
   text-align: center;
   margin-bottom: 20px;
   color: #3778c8;
-  display: none;
 }
 
 .h2 {
@@ -40,7 +39,7 @@
   }
 
   .firstSection h1 {
-    display: block;
+    font-size: 30px;
   }
 }
 
