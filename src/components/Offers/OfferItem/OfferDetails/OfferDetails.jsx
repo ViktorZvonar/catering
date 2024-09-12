@@ -5,7 +5,7 @@ import styles from './OfferDetails.module.css';
 
 function OfferDetails() {
   const { id } = useParams();
-  const data = offerData.find(s => s.id === parseInt(id, 10));
+  const data = offerData.find(s => s.id === id);
 
   if (!data) {
     return <div>Offer not found</div>;

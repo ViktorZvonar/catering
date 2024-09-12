@@ -1,10 +1,10 @@
 [
     {
-        "id": 1,
+        "id": "szkóła",
         "name": "Dla szkół i  przedszkoli",
         "title": "Zapewnia zdrowe, zbilansowane posiłki, przygotowane z myślą o żywieniowych dzieci",
         "photo": "/images/OfferItems/SZ.jpg",
-        "url": "/details/1",
+        "url": "/details/szkóła",
         "subItems": [
             {
                 "subItemId": 1,
@@ -19,11 +19,11 @@
         ]
     },
     {
-        "id": 2,
+        "id": "firma",
         "name": "Dla firm",
         "title": "Idealny do codziennego wyżywienia pracowników oraz organizacji spotkań biznesowych",
         "photo": "/images/OfferItems/FI.jpg",
-        "url": "/details/2",
+        "url": "/details/firma",
         "subItems": [
             {
                 "subItemId": 1,
@@ -38,11 +38,11 @@
         ]
     },
     {
-        "id": 3,
+        "id": "indywid",
         "name": "Catering indywidualny",
         "title": "Personalizowane usługi cateringowe, dostosowane do indywidualnych preferencji klienta",
         "photo": "/images/OfferItems/CI.jpg",
-        "url": "/details/3",
+        "url": "/details/indywid",
         "subItems": [
             {
                 "subItemId": 1,
@@ -57,11 +57,11 @@
         ]
     },
     {
-        "id": 4,
+        "id": "abonamenty",
         "name": "Abonamenty",
         "title": "Idealne dla osób ceniących sobie wygodę, jakość oraz ciągłość w dostępie do zdrowego jedzenia",
         "photo": "/images/OfferItems/AB.jpg",
-        "url": "/details/4",
+        "url": "/details/abonamenty",
         "subItems": [
             {
                 "subItemId": 1,
@@ -71,11 +71,11 @@
         ]
     },
     {
-        "id": 5,
+        "id": "zestawy",
         "name": "Zestawy okolicznościowe",
         "title": "Idealne rozwiązanie na specjalne wydarzenia",
         "photo": "/images/OfferItems/ZE.jpg",
-        "url": "/details/5",
+        "url": "/details/zestawy",
         "subItems": [
             {
                 "subItemId": 1,
