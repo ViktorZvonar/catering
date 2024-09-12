@@ -1,10 +1,10 @@
 [
     {
-        "id": "szkóła",
+        "id": "szkoła",
         "name": "Dla szkół i  przedszkoli",
         "title": "Zapewnia zdrowe, zbilansowane posiłki, przygotowane z myślą o żywieniowych dzieci",
         "photo": "/images/OfferItems/SZ.jpg",
-        "url": "/details/szkóła",
+        "url": "/details/szkoła",
         "subItems": [
             {
                 "subItemId": 1,
