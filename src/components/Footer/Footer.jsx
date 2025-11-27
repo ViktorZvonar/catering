@@ -14,7 +14,7 @@ function Footer() {
       </div>
       <p className={styles.disclaimer}>
         <a target="blank" href="https://maps.app.goo.gl/yegTGRHq9R9fDZDh7">
-          ul. Krzywoustego 1, 84-300, Lębork
+          ul. Kolonia 18, 84-300, Lębork
         </a>
       </p>
       <p className={styles.disclaimer}>
