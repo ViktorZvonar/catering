@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.130df953.css",
-    "main.js": "/static/js/main.8e454904.js",
+    "main.js": "/static/js/main.524f2f11.js",
     "static/css/493.440a890b.chunk.css": "/static/css/493.440a890b.chunk.css",
     "static/js/493.6877458a.chunk.js": "/static/js/493.6877458a.chunk.js",
     "static/css/16.a1010e38.chunk.css": "/static/css/16.a1010e38.chunk.css",
     "static/js/16.012cdbee.chunk.js": "/static/js/16.012cdbee.chunk.js",
     "static/css/833.becc0a58.chunk.css": "/static/css/833.becc0a58.chunk.css",
-    "static/js/833.42807266.chunk.js": "/static/js/833.42807266.chunk.js",
+    "static/js/833.2b7f9dc9.chunk.js": "/static/js/833.2b7f9dc9.chunk.js",
     "static/css/790.dfd9d988.chunk.css": "/static/css/790.dfd9d988.chunk.css",
     "static/js/790.011d857a.chunk.js": "/static/js/790.011d857a.chunk.js",
     "static/media/o-nas.jpg": "/static/media/o-nas.88cb04fec4f0a1a65891.jpg",
@@ -16,18 +16,18 @@
     "static/media/bg-6.jpg": "/static/media/bg-6.cae3f029b27784c935c7.jpg",
     "index.html": "/index.html",
     "main.130df953.css.map": "/static/css/main.130df953.css.map",
-    "main.8e454904.js.map": "/static/js/main.8e454904.js.map",
+    "main.524f2f11.js.map": "/static/js/main.524f2f11.js.map",
     "493.440a890b.chunk.css.map": "/static/css/493.440a890b.chunk.css.map",
     "493.6877458a.chunk.js.map": "/static/js/493.6877458a.chunk.js.map",
     "16.a1010e38.chunk.css.map": "/static/css/16.a1010e38.chunk.css.map",
     "16.012cdbee.chunk.js.map": "/static/js/16.012cdbee.chunk.js.map",
     "833.becc0a58.chunk.css.map": "/static/css/833.becc0a58.chunk.css.map",
-    "833.42807266.chunk.js.map": "/static/js/833.42807266.chunk.js.map",
+    "833.2b7f9dc9.chunk.js.map": "/static/js/833.2b7f9dc9.chunk.js.map",
     "790.dfd9d988.chunk.css.map": "/static/css/790.dfd9d988.chunk.css.map",
     "790.011d857a.chunk.js.map": "/static/js/790.011d857a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.130df953.css",
-    "static/js/main.8e454904.js"
+    "static/js/main.524f2f11.js"
   ]
 }
