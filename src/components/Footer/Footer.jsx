@@ -18,7 +18,7 @@ function Footer() {
         </a>
       </p>
       <p className={styles.disclaimer}>
-        <a href="tel:+48662219626">Tel.: +48 662 219 626</a>
+        <a href="tel:+48694915632">Tel.: +48 694 915 632</a>
       </p>
       <p className={styles.disclaimer}>
         <a href="mailto:catering@eduqlebork.pl">catering@eduqlebork.pl</a>
