@@ -9,7 +9,7 @@ function Kontakts() {
         <h1 className={styles.h1}>Skontaktuj się z nami</h1>
         <p className={styles.p}>ul. Krzywoustego 1, 84-300, Lębork</p>
         <p className={styles.clickableContact}>
-          <a href="tel:+48662219626"> +48 662 219 626</a>
+          <a href="tel:+48694915632"> +48 694 915 632</a>
         </p>
         <p className={`${styles.clickableContact} ${styles.last}`}>
           <a href="mailto:catering@eduqlebork.pl"> catering@eduqlebork.pl</a>
